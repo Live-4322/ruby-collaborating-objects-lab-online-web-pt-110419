@@ -36,3 +36,5 @@ class Song
         new_song.artist=(Artist.new(artist))
         new_song
     end
+    
+  end
